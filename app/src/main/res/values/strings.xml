@@ -2,7 +2,7 @@
     <string name="app_name">Mock02</string>
     
     <string-array name="workout">
-        <item>Core/Abs</item>
+        <item>Core / Abs</item>
         <item>etc</item>
     </string-array>
 </resources>
